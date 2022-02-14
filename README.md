@@ -1,4 +1,158 @@
 # Data_Access
-## Ado.Net
-### disconnected
-<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/Csharp_Logo.png" width="auto">
+Uygulama ve veritabanı arasındaki veri alışverişidir. ADO.NET ve Entity Framework gibi Framework yapıları ile veri erişiminin sağlanması uygulanmıştır.
+## ADO.NET 
+ADO.NET, veri tabanlarındaki  bilgileri elde etmek ve ya veritabanındaki bulunan verileri değiştirmek için geliştirilmiş veri erişim aracıdır.
+.NET Platformu için geliştirilmiş,offline çalışma sistemini destekleyen web uygulamaları gibi n-katmanlı uygulamalarda kolaylık sağlayan veri erişim aracıdır.
+
+<img align="Center" height="394" width="864" src="https://github.com/HakanKban/Data_Access/blob/main/ADO.NET/G%C3%B6rseller/2022-02-13%20(6).png" width="auto">
+
+
+### Görselde genel olarak ADO.NET mimarisi gösterilmiştir
+## Disconected Mimari
+System.Data.SqlClient kütüphanesi eklenerek SqlConnection sınıfı yardımıyla veritabanı ile bağlantı kurulmuştur. WindowsForm projesi olan örneğimizde NORTWND database olarak
+kullanılmıştır. SqlDataAdapter sınıfından nesne türetilerek tablomuzu seçiyoruz. Ardından DataTable nesnesi oluşturup seçilen tabloyu DataTable üzerinde fill metodu ile Adaptere ekleyerek oluşturuyoruz. Daha sonra DataSet ile nesnesine tabloyu add metodu ile ekliyoruz. DataSet üzerinde bulunan tablolar asıl veri kaynağından bağımsız çalışır.Bağlantı kesilse bile yinede işlemler yapılabilir. İşte Disconnected çalışma modeli tam olarak budur.
+
+
+
+
+<img align="Center" height="394" width="864" src="https://github.com/HakanKban/Data_Access/blob/main/ADO.NET/G%C3%B6rseller/2022-02-13%20(8).png" width="auto">
+
+## Conected Mimari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -18,6 +18,15 @@ kullanılmıştır. SqlDataAdapter sınıfından nesne türetilerek tablomuzu se
 <img align="Center" height="394" width="864" src="https://github.com/HakanKban/Data_Access/blob/main/ADO.NET/G%C3%B6rseller/2022-02-13%20(8).png" width="auto">
 
 ## Conected Mimari
+Veri tabanına bağlantıyı sembolize eden sınıf Sql.connection sınıfıdır. SqlCommand sınıfından command nesnesi türetilerek ise sql cümleciği kullanılarak sorgu yapmamız sağlanır.
+UrunEkle isim metodumuzda bu sorguyu yaptıktan sonra  AddwithValue metodu ile parametleri tanımlarız. Ardından ExecuteNonQuery metodu ile veritabanına ekleme işlemi yapılır.
+Bu metod veritabanındaki kayıtları silmek,değiştirmek, ya da yeni kayıt eklemek için kullanılır.
+UrunListele metodunda ise SqlDataReader sınıfından türetilen nesne ile sorgu ExecuteReader metoduyla okunur ve while döngüsü ile listeye eklenir.
+
+<img align="Center" height="344" width="664" src="https://github.com/HakanKban/Data_Access/blob/main/ADO.NET/G%C3%B6rseller/2022-02-13%20(4).png" width="auto">
+
+## ENTİTY FRAMEWORK
+
 
 
 

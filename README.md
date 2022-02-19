@@ -24,7 +24,7 @@ Bu metod veritabanındaki kayıtları silmek,değiştirmek, ya da yeni kayıt ek
 UrunListele metodunda ise SqlDataReader sınıfından türetilen nesne ile sorgu ExecuteReader metoduyla okunur ve while döngüsü ile listeye eklenir.
 
 <img align="Center" height="344" width="664" src="https://github.com/HakanKban/Data_Access/blob/main/ADO.NET/G%C3%B6rseller/2022-02-13%20(4).png" width="auto">
-a
+aa
 ## ENTİTY FRAMEWORK
 
 

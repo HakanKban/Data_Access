@@ -94,6 +94,9 @@ Dile entegre edilmiş Sorgu yapısıdır. C# 3.0 daki en önemli yenilik denebil
 - Linq TO Xml 
   XML veri kaynaklarına harhangi bir parser (ayıklayıcı) kullanmadan hızlı bir şekilde erişmek için kullanılmaktadır. Temel amacı XML tipi verilerle çalışırken üretkenliği 
   artırmaktıt.
+  
+  
+  
  LINQ metotları ve sql sorgu yapıları Nortwind veri tabanı üzerinden yüklenen dosyada uygulanmıştır.
 
 

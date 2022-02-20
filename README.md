@@ -30,7 +30,7 @@ UrunListele metodunda ise SqlDataReader sınıfından türetilen nesne ile sorgu
 
 # ENTİTY FRAMEWORK
 
-
+Bir ORM (Object Relational Mapping) Frameworküdür.Veritabanından çekilen verileri C# classlarına dönüştürür.
 
 
 

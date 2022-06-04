@@ -37,7 +37,7 @@ Bu LINQ(Language Integrated Query ) yardımıyla üçüncü bir bileşene ihtiya
 
 Entity Framework'un genel olarak içeriğini görselden inceleyebilirsiniz.
 
-<img align="Center" height="344" width="664" src="https://github.com/HakanKban/Data_Access/blob/main/EF_CODEFIRST_WFA/EF_CODEFIRST_WFA/G%C3%B6rseller/2022-02-13%20(15).png" width="auto">
+<img align="Center" height="344" width="663" src="https://github.com/HakanKban/Data_Access/blob/main/EF_CODEFIRST_WFA/EF_CODEFIRST_WFA/G%C3%B6rseller/2022-02-13%20(15).png" width="auto">
 
 
 
